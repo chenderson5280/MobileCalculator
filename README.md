@@ -1,1 +1,1 @@
-Hello
+Hello and welcome to my mobile calcu;lator app. The only goal is for practice and experimentation with animations with buttons and calculations. Hang tight for more ;)
